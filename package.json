@@ -1,0 +1,27 @@
+{
+  "name": "emulation-station-theme-builder",
+  "version": "1.0.0",
+  "description": "Emulation Station Theme Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Emulation",
+    "Station",
+    "Themes",
+    "Emulation",
+    "UI",
+    "Design"
+  ],
+  "author": "Lewis Moten",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewismoten/emulation-station-theme-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lewismoten/emulation-station-theme-builder/issues"
+  },
+  "homepage": "https://github.com/lewismoten/emulation-station-theme-builder#readme"
+}
