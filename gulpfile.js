@@ -1,9 +1,6 @@
 let gulp = require('gulp'),
   browserSync = require('browser-sync')
-  .create(),
-  git = require('gulp-git'),
-  argv = require('yargs')
-  .argv;
+  .create();
 
 gulp.task('browser-sync', () => {
 
@@ -17,16 +14,5 @@ gulp.task('browser-sync', () => {
     }
   });
 
-
-});
-
-gulp.task('theme', () => {
-
-  'use strict';
-
-  git.clone(argv.git,
-  {
-    cwd: './themes/'
-  });
 
 });

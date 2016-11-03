@@ -27,8 +27,7 @@
   "devDependencies": {
     "browser-sync": "^2.17.5",
     "gulp": "^3.9.1",
-    "gulp-git": "^1.12.0",
     "interact.js": "^1.2.6",
-    "yargs": "^6.3.0"
+    "jquery": "^3.1.1"
   }
 }

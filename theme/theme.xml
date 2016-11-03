@@ -1,0 +1,11 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+  <view name="system"></view>
+
+  <view name="basic"></view>
+
+  <view name="detailed"></view>
+
+</theme>

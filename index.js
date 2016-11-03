@@ -2,6 +2,16 @@
 
     'use strict';
 
+
+    $.ajax({
+      url: "theme/theme.xml"
+    }).done(function(data) {
+
+      console.log('got it', data);
+
+    });
+
+
     var transformProp;
 
     interact.maxInteractions(Infinity);
